@@ -1,4 +1,6 @@
-## Hi there 👋
+## sup all my fellas!
+Im Kit, a learning developer and i # think im obsessed with HTML and Javascript and also Tailwind CSS.
+Trying to learn TypeScript
 
 <!--
 **KitNeko/kitneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
