@@ -1,6 +1,6 @@
 ## sup all my fellas!
 Im Kit a developer who does random stuff when i feel like it.
-also know a BIT about servers
+also knows a LOT ABOUT SERVERS and web development
 <!--
 **KitNeko/kitneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
